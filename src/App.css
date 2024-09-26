@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+h1{
+  font-size: 90px;
+  margin-top: 20px;
+}
+/* .active{
+  color: lightyellow;
+  text-decoration: none;
+} */
+
+.activeLink{
+  color: lightyellow;
+  text-decoration: none;
+}
+nav a{
+  margin: 15px;
+}
+nav {
+  background-color: darkslategray;
+  padding: 5px;
+}
+a{
+  color: rgb(0, 239, 252);
+  font-size: 35px;
+}
+button{
+  padding: 15px;
+  font-size: 30px;
+  border-radius: 5px;
+  margin: 20px;
+  border: 0;
+  cursor: pointer;
+}
